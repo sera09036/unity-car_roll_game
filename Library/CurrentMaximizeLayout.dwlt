@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 915, y: 422}
   m_MaxSize: {x: 22010, y: 10022}
   vertical: 0
-  controlID: 19968
+  controlID: 151
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 422}
   m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 19907
+  controlID: 128
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,9 +196,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.5672989, y: -3.5953693, z: -1.0113621}
+    m_Target: {x: 3.5707755, y: 0.3576001, z: -1.0478125}
     speed: 2
-    m_Value: {x: 1.5672989, y: -3.5953693, z: -1.0113621}
+    m_Value: {x: 3.5707755, y: 0.3576001, z: -1.0478125}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -227,13 +227,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.084775366, y: 0.91232425, z: -0.24251221, w: 0.31893113}
+    m_Target: {x: 0.029571353, y: 0.9169926, z: -0.06918569, w: 0.39181373}
     speed: 2
-    m_Value: {x: 0.084773175, y: 0.91230065, z: -0.24250594, w: 0.31892288}
+    m_Value: {x: 0.029570546, y: 0.9169676, z: -0.069183804, w: 0.39180303}
   m_Size:
-    m_Target: 11.516396
+    m_Target: 10.887252
     speed: 2
-    m_Value: 11.516396
+    m_Value: 10.887252
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -368,7 +368,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 306efeff0a41ffff2641ffff76fbffff
+      m_ExpandedIDs: 76fbffff243c0000383c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -411,8 +411,8 @@ MonoBehaviour:
     y: 0
     width: 392
     height: 947
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 272}
+  m_MaxSize: {x: 10004, y: 10022}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -463,14 +463,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\unity\project\car_roll_game
+  m_LastProjectPath: D:\Documents\GitHub\unity-car_roll_game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc950000
-    m_LastClickedID: 38332
-    m_ExpandedIDs: 000000001e2d000030390000343b00005e3b000000ca9a3b
+    m_SelectedIDs: 4a330000
+    m_LastClickedID: 13130
+    m_ExpandedIDs: 000000007e2e00002c310000bc3700005838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e2d000030390000343b00005e3b000000ca9a3b
+    m_ExpandedIDs: 000000007e2e00002c310000bc37000058380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -523,8 +523,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 74aa0000
-    m_LastClickedInstanceID: 43636
+    m_SelectedInstanceIDs: 103c0000
+    m_LastClickedInstanceID: 15376
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -573,8 +573,8 @@ MonoBehaviour:
     y: 0
     width: 369
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -616,5 +616,5 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 43636
+  m_LastInspectedObjectInstanceID: 15376
   m_LastVerticalScrollValue: 0

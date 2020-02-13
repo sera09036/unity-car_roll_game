@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 472}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 472}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 915, y: 422}
   m_MaxSize: {x: 22010, y: 10022}
   vertical: 0
-  controlID: 129
+  controlID: 854
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 422}
   m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 130
+  controlID: 855
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -390,9 +390,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.0557098, y: 0.10105693, z: -2.3124924}
+    m_Target: {x: 2.2887254, y: -1.8199165, z: -1.4690356}
     speed: 2
-    m_Value: {x: 2.0557098, y: 0.10105693, z: -2.3124924}
+    m_Value: {x: 2.2887254, y: -1.8199165, z: -1.4690356}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -421,13 +421,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.026796456, y: 0.9480289, z: -0.08298123, w: 0.3060863}
+    m_Target: {x: 0.060207903, y: 0.9259966, z: -0.1673629, w: 0.33309245}
     speed: 2
-    m_Value: {x: 0.02725481, y: 0.947879, z: -0.08440102, w: 0.3060379}
+    m_Value: {x: 0.0604572, y: 0.92547023, z: -0.16726775, w: 0.33447176}
   m_Size:
-    m_Target: 10.909343
+    m_Target: 10.887252
     speed: 2
-    m_Value: 10.909343
+    m_Value: 10.887252
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -508,9 +508,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: e8270000
       m_LastClickedID: 0
-      m_ExpandedIDs: 92f7ffff76fbffff
+      m_ExpandedIDs: 76fbffff243c0000383c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -573,19 +573,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\unity\project\car_roll_game
+  m_LastProjectPath: D:\Documents\GitHub\unity-car_roll_game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e310000
-    m_LastClickedID: 12590
+    m_SelectedIDs: 4a330000
+    m_LastClickedID: 13130
     m_ExpandedIDs: 000000007e2e00002c310000bc3700005838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -614,7 +614,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007e2e00002c310000bc37000058380000
+    m_ExpandedIDs: 000000007e2e00002c310000bc3700005838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
